@@ -46,6 +46,6 @@ $ du -s ~ | sort -nr
 
 ## PS
 
-- 主要删除了一些 JetBrains 久版本的 Cache 和 Logs
+- 主要删除了一些 JetBrains 旧版本的 Cache 和 Logs
 - 后续不够用再删
 
