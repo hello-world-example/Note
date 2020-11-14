@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Note - 杂文</title>
+    <link>https://hello-world-example.github.io/Note/post/</link>
+    <description>Recent content in Posts on Note - 杂文</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hello-world-example.github.io/Note/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac 清理</title>
+      <link>https://hello-world-example.github.io/Note/post/mac-clear/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Note/post/mac-clear/</guid>
+      <description>最近打开电脑的时候，发现 MAC 磁盘占占用又满了 这里进行记录，便于下次再出现的时候快速删除无用的文件 基于命令 1 2 3 # sort -n 数字排序 # sort -n 倒序 $ du -s ~</description>
+    </item>
+    
+  </channel>
+</rss>

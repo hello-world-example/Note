@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hello-world-example.github.io/Note/sitemap.xml

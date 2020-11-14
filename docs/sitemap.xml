@@ -1,0 +1,60 @@
+<?xml-stylesheet type="text/xsl" href="https://hello-world-example.github.io/Note/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/about/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/categories/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/tags/mac/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/categories/mac/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/post/mac-clear/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/post/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-world-example.github.io/Note/tags/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
