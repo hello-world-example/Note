@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crack on Note - 杂文</title>
+    <link>https://hello-world-example.github.io/Note/categories/crack/</link>
+    <description>Recent content in Crack on Note - 杂文</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hello-world-example.github.io/Note/categories/crack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IDEA 无线续期</title>
+      <link>https://hello-world-example.github.io/Note/post/idea-crack/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Note/post/idea-crack/</guid>
+      <description>试用期无限续期 Jetbrains 系列产品重置试用方法 Gitee pengzhile / ide-eval-resetter 插件 链接(v2.1.13)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,6 +13,6 @@ weight: 50
 
 
 
-- @see [Hello World Deme](http://kail.xyz/)
+- @see [Hello World Demo](http://kail.xyz/)
 - @see [Kail’s Blog](http://blog.kail.xyz/)
 

@@ -17,7 +17,16 @@
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hello-world-example.github.io/Note/about/</guid>
-      <description>仅仅是一些记录备忘！ @see Hello World Deme @see Kail’s Blog</description>
+      <description>仅仅是一些记录备忘！ @see Hello World Demo @see Kail’s Blog</description>
+    </item>
+    
+    <item>
+      <title>IDEA 无线续期</title>
+      <link>https://hello-world-example.github.io/Note/post/idea-crack/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Note/post/idea-crack/</guid>
+      <description>试用期无限续期 Jetbrains 系列产品重置试用方法 Gitee pengzhile / ide-eval-resetter 插件 链接(v2.1.13)</description>
     </item>
     
     <item>

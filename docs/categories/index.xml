@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Note - 杂文</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hello-world-example.github.io/Note/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Crack</title>
+      <link>https://hello-world-example.github.io/Note/categories/crack/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Note/categories/crack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MAC</title>
