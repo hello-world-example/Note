@@ -1,5 +1,5 @@
 ---
-title: "IDEA 无线续期"
+title: "IDEA 无限续期"
 date: 2021-02-15
 lastmod: 2021-02-15
 draft: false
